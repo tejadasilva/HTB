@@ -1,3 +1,7 @@
+---
+icon: square-terminal
+---
+
 # Nibles - Initial Foothold
 
 ## Testing My image plugin
